@@ -11,4 +11,5 @@ we can generate the sequnce by following this pattern
 for example the firts 10 numbers are 1, 1, 2, 1, 3, 2, 3, 1, 4, 3
 
 This program may be used or modified by anyone who needs it.
+
 Asefaw Mekuria
